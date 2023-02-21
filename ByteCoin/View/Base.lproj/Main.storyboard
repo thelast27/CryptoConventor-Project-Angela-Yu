@@ -100,6 +100,7 @@
                     <connections>
                         <outlet property="currencyPicker" destination="ct2-jk-pgH" id="O9n-hA-JJK"/>
                         <outlet property="currentCurrencySelected" destination="MAn-y0-nXv" id="zI3-FU-2CG"/>
+                        <outlet property="currentMoneyValueLabel" destination="N2a-Ax-iRV" id="6rb-Ur-BdU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
